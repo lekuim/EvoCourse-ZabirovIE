@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Task-2.18/Task-2.18.iml" filepath="$PROJECT_DIR$/Task-2.18/Task-2.18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-2.19/Task-2.19.iml" filepath="$PROJECT_DIR$/Task-2.19/Task-2.19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zabirov-EvoCourse.iml" filepath="$PROJECT_DIR$/Zabirov-EvoCourse.iml" />
+    </modules>
+  </component>
+</project>
