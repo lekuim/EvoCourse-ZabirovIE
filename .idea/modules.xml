@@ -4,6 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Task-2.18/Task-2.18.iml" filepath="$PROJECT_DIR$/Task-2.18/Task-2.18.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task-2.19/Task-2.19.iml" filepath="$PROJECT_DIR$/Task-2.19/Task-2.19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-2.20/Task-2.20.iml" filepath="$PROJECT_DIR$/Task-2.20/Task-2.20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-2.21.1/Task-2.21.1.iml" filepath="$PROJECT_DIR$/Task-2.21.1/Task-2.21.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-2.21.2/Task-2.21.2.iml" filepath="$PROJECT_DIR$/Task-2.21.2/Task-2.21.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-2.21.3/Task-2.21.3.iml" filepath="$PROJECT_DIR$/Task-2.21.3/Task-2.21.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-2.21.4/Task-2.21.4.iml" filepath="$PROJECT_DIR$/Task-2.21.4/Task-2.21.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-2.22/Task-2.22.iml" filepath="$PROJECT_DIR$/Task-2.22/Task-2.22.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zabirov-EvoCourse.iml" filepath="$PROJECT_DIR$/Zabirov-EvoCourse.iml" />
     </modules>
   </component>
