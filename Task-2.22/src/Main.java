@@ -1,6 +1,5 @@
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.time.DayOfWeek;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
@@ -31,6 +30,9 @@ public class Main {
         } catch (ParseException e) {
             System.out.println("Неверный формат даты!(Верный формат: 'дд.мм.гггг')");
         }
+        if (date == null) {
+            return;
+        }
         GregorianCalendar gc = new GregorianCalendar();
         gc.setTime(date);
         gc.add(Calendar.DATE, 45);
@@ -60,6 +62,9 @@ public class Main {
 
         } catch (ParseException e) {
             System.out.println("Неверный формат даты!(Верный формат: 'дд.мм.гггг')");
+        }
+        if (date2 == null) {
+            return;
         }
         GregorianCalendar gc2 = new GregorianCalendar();
         gc.setTime(date);
