@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sin = new Scanner(System.in);
         int a, b, c;
+        System.out.println("Введите 3 числа");
         try {
             a = sin.nextInt();
             b = sin.nextInt();
