@@ -20,7 +20,7 @@ public class Main {
         System.out.println(!res.isEmpty() ? res.substring(0, res.length() - 2) : "нет значений, кратных 5");
         System.out.println("Результат целочисленного деления a на b: " + a / b);
         System.out.println("Результат деления a на b: " + a / (double) b);
-        System.out.println("Результат деления a на b с округлением в большую сторону: " + Math.ceilDiv(a, b));
+        System.out.println("Результат деления a на b с округлением в большую сторону: " + (int) Math.ceil(a / (double) b));
         System.out.println("Результат деления a на b с округлением в меньшую сторону: " + Math.floorDiv(a, b));
         System.out.println("Результат деления a на b с математическим округлением: " + Math.round(a / (double) b));
         System.out.println("Остаток от деления b на c: " + b % c);
