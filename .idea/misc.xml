@@ -6,7 +6,13 @@
       <list>
         <option value="$PROJECT_DIR$/Task-4.7-Maven/pom.xml" />
         <option value="$PROJECT_DIR$/Task-4.8/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
