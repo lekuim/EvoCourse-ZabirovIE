@@ -1,4 +1,3 @@
-package org.evo;
 
 public class Adder implements Operation {
     @Override

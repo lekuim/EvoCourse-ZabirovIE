@@ -1,5 +1,3 @@
-package org.evo;
-
 import java.util.Scanner;
 
 public class Main {

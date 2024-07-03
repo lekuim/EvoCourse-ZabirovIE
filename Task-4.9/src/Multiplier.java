@@ -1,5 +1,3 @@
-package org.evo;
-
 public class Multiplier implements Operation {
 
     @Override

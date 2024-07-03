@@ -1,5 +1,3 @@
-package org.evo;
-
 public class Substractor implements Operation {
     @Override
     public double getResult(double a, double b) {

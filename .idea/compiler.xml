@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Task-4.8" />
         <module name="Task-4.7-Maven" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="9" target="17" />
+      <module name="Task-4.9" target="17" />
       <module name="untitled" target="17" />
     </bytecodeTargetLevel>
   </component>
