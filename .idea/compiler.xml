@@ -6,13 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Task-4-11" />
         <module name="Task-4.7-Maven" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="9" target="17" />
+      <module name="demo" target="17" />
+      <module name="Task-4.11" target="1.5" />
       <module name="Task-4.9" target="17" />
       <module name="untitled" target="17" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Task-4-11" options="-parameters" />
+      <module name="Task-4.11" options="" />
+      <module name="demo" options="-parameters" />
+    </option>
   </component>
 </project>

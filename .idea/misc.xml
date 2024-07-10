@@ -7,10 +7,17 @@
         <option value="$PROJECT_DIR$/Task-4.7-Maven/pom.xml" />
         <option value="$PROJECT_DIR$/Task-4.8/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../DOWNLOAD/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../DOWNLOAD/Task-4.11/pom.xml" />
+        <option value="$PROJECT_DIR$/Task-4.11/pom.xml" />
+        <option value="$PROJECT_DIR$/Task-4-11/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/../../../DOWNLOAD/Task-4.11/pom.xml" />
+        <option value="$PROJECT_DIR$/Task-4.11/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </set>
     </option>
